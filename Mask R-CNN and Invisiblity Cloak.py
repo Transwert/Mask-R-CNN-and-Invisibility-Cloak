@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 11 16:40:33 2020
-
-@author: Arun
-"""
-
 # Import essential libraries
 import cv2
 import time
